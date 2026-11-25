@@ -1,0 +1,11 @@
+torch>=2.2
+diffusers>=0.32
+peft>=0.14
+transformers
+accelerate
+huggingface_hub
+numpy
+pandas
+scipy
+matplotlib
+Pillow

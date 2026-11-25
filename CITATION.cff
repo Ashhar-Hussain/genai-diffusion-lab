@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code or its results, please cite it as below."
+title: "Diffusion lab: flow matching vs DDPM, the cost of LoRA, and DreamBooth-LoRA on Stable Diffusion"
+abstract: "Flow matching vs DDPM trained from scratch, LoRA vs full fine-tuning for new concepts, and DreamBooth-LoRA on Stable Diffusion 1.5 with inference benchmarks on a T4."
+authors:
+  - family-names: Hussain
+    given-names: Ashhar
+    orcid: "https://orcid.org/0009-0009-1568-9852"
+    affiliation: "Department of Computer Science and Information Technology, University of Kotli, AJ&K, Pakistan"
+repository-code: "https://github.com/Ashhar-Hussain/genai-diffusion-lab"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-25"
+keywords:
+  - diffusion models
+  - flow matching
+  - rectified flow
+  - LoRA
+  - DreamBooth
+  - Stable Diffusion
+  - parameter-efficient fine-tuning
+  - inference optimization

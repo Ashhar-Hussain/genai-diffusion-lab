@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+data/
+lake/
+outputs/checkpoints/
+outputs/*.jsonl
+*.parquet
+*.pt
+.DS_Store
